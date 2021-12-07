@@ -9,5 +9,6 @@ function solution(a, b) {
             answer += j;
         }
     }
+
     return answer;
 }
