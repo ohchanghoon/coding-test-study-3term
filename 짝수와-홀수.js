@@ -7,5 +7,5 @@ function solution(num) {
   }
 }
 
-console.log("결과 : " + solution(2));
-console.log("결과 : " + solution(3));
+//console.log("결과 : " + solution(2));
+//console.log("결과 : " + solution(3));
