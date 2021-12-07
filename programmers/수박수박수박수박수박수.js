@@ -1,9 +1,9 @@
 function solution(n) {
   let answer = "";
-  let plusW = "";
+  let addWord = "";
   for (let i = 0; i < n; i++) {
-    plusW = i % 2 == 0 ? "수" : "박";
-    answer += plusW;
+    addWord = i % 2 === 0 ? "수" : "박";
+    answer += addWord;
   }
   return answer;
 }

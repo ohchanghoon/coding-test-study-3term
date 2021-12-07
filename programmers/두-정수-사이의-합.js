@@ -1,14 +1,5 @@
 function solution(a, b) {
-  let answer = 0;
-  if (a < b) {
-    for (let i = a; i <= b; i++) {
-      answer += i;
-    }
-  } else {
-    for (let i = b; i <= a; i++) {
-      answer += i;
-    }
-  }
-
-  return answer;
+  const maxNum = Math.max(a, b);
+  const minNum = Math.min(a, b);
+  return ((maxNum - minNum + 1) / 2) * (maxNum + minNum);
 }
