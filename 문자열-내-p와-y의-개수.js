@@ -16,5 +16,5 @@ let pCount = 0;
 }
 
 
-console.log( numPY("pPoooyY"))
-console.log( numPY("Pyy"))
+//console.log( numPY("pPoooyY"))
+//console.log( numPY("Pyy"))
