@@ -9,5 +9,6 @@ function solution(s) {
         s[i] === "Y" || s[i] === "y" ? (counts["y"] += 1) : counts;
     }
     counts["p"] === counts["y"] ? (answer = true) : (answer = false);
+
     return answer;
 }
