@@ -1,6 +1,7 @@
 function solution(n) {
-    const arr = String(n).split('');
+    let result = 0;
     
-    return arr.map(num => Number(num))
-              .reduce((acc, cur) => acc + cur);
+    for (let i of String(n)) result += Number(i);
+    
+    return result;
 };
