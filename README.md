@@ -19,8 +19,8 @@
       - 블로그 : https://blog.naver.com/clark9810
    - **백승범** <[SeungBum123](https://github.com/SeungBum123)>
       - 블로그 : https://blog.naver.com/wer06099
-   - **이하람** <[]()>
-      - 블로그 : 
+   - **이하람** <[HalamLee](https://github.com/HalamLee)>
+      - 블로그 : https://lami.tistory.com/
    - **이한결** <[leephoter](http://github.com/leephoter)>
       - 블로그 : http://velog.io/@leephoter
    - **정용훈** <[Yonghoon-Jung](https://github.com/Yonghoon-Jung)>
