@@ -9,8 +9,6 @@
 
 ## 👨🏻‍💻 우아한 코더
 * 팀원 :
-   - **이일성** <[ilsung98](https://github.com/ilsung98)>
-      - 블로그 : https://blog.naver.com/koreas8824
    - **김성제** <[tjdwp0211](https://github.com/tjdwp0211)>
       - 블로그 : https://blog.naver.com/rlatjdwp0211
    - **송현경** <[cheuniss](http://github.com/cheuniss)>
